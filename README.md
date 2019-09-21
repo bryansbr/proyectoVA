@@ -15,10 +15,10 @@
 - Cargar el archivo *Mandelbrot.ipynb* en el Jupyter Notebook.
 - Recorrer el archivo.
 
-4. Si no se cuenta con lo anterior, cargar el archivo *Mandelbrot.ipynb* en el siguiente Hub: https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/try.jupyter.org?urlpath=lab
+4. Si no se cuenta con lo anterior, cargar el archivo *Mandelbrot.ipynb* en el siguiente Hub: https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/try.jupyter.org?urlpath=lab. Es posible editar el archivo como si se tuviese el Jupyter instalado, es decir, se pueden generar nuevos fractales si así se desea.
 
 
-**EXTRA:** Si se desea ver el código completo, abrir el archivo *mandelbrot.py*. Si se ejecuta lanzará error puesto que está diseñado para utilizarse con Jupyter Notebook.
+**EXTRA:** Para ver el código completo, abrir el archivo *mandelbrot.py*. Si se ejecuta lanzará error puesto que está diseñado para utilizarse con Jupyter Notebook.
 
 
 **FÓRMULAS IMPLEMENTADAS.**
