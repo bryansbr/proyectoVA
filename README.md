@@ -36,5 +36,5 @@
 
 **REFERENCIAS.**
 
-- https://www.youtube.com/watch?v=gECmGwD0DaI <- *Conjunto de Mandelbrot en Python.*
-- https://es.wikipedia.org/wiki/Desarrollo_de_fractales_mediante_el_m%C3%A9todo_de_Mandelbrot <- *Desarrollo de fractales mediante el método de Mandelbrot*
+- https://www.youtube.com/watch?v=gECmGwD0DaI <- **Conjunto de Mandelbrot en Python.**
+- https://es.wikipedia.org/wiki/Desarrollo_de_fractales_mediante_el_m%C3%A9todo_de_Mandelbrot <- **Desarrollo de fractales mediante el método de Mandelbrot.**
