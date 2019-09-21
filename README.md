@@ -34,7 +34,7 @@
 9) z^2+(1/C) interseccción z^2+C (o eso parece).
 10) z^3-z+C
 
-**Nota:** Se pueden modificar o agregar nuevas funciones. Para esto, crear una función mandelbrot, por ejemplo *_def mandelbrot11_* y modificar la fórmula generadora del fractal. Después, modificar en la variable *resultado* el nombre de *mandelbrot<número>* al número correspondiente y ajustar la gráfica en *fila_index* y *columna_index*. Finalmente, se puede cambiar el color de la gráfica en *plt.imshow* en el parámetro *cmap*.
+**Nota:** Se pueden modificar o agregar nuevas funciones. Para esto, crear una función mandelbrot, por ejemplo **_def mandelbrot11_** y modificar la fórmula generadora del fractal. Después, modificar en la variable *resultado* el nombre de *mandelbrot<número>* al número correspondiente y ajustar la gráfica en *fila_index* y *columna_index*. Finalmente, se puede cambiar el color de la gráfica en *plt.imshow* en el parámetro *cmap*.
 
 **REFERENCIAS.**
 
