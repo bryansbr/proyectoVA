@@ -34,7 +34,10 @@
 9) z^2+(1/C) interseccción z^2+C (o eso parece).
 10) z^3-z+C
 
+**_Nota:_** Se pueden modificar o agregar nuevas funciones. Para esto, crear una función función mandelbrot, por ejemplo *def mandelbrot 11* y modificar la fórmula *z*. Después, modificar en la variable *resultado* el nombre de *mandelbrot<número>* al número correspondiente y ajustar la gráfica en *fila_index* y *columna_index*. Finalmente, se puede cambiar el nombre de la gráfica en *plt.imshow* en el parámetro *cmap*.
+
 **REFERENCIAS.**
 
 - https://www.youtube.com/watch?v=gECmGwD0DaI <- **Conjunto de Mandelbrot en Python.**
 - https://es.wikipedia.org/wiki/Desarrollo_de_fractales_mediante_el_m%C3%A9todo_de_Mandelbrot <- **Desarrollo de fractales mediante el método de Mandelbrot.**
+- https://matplotlib.org/3.1.0/tutorials/colors/colormaps.html <- **Mapa de colores (cmap).**
