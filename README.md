@@ -11,11 +11,11 @@
 
 2. Instalar **Anaconda + Jupyter Notebook** de: https://www.anaconda.com/distribution/ (escoger la distribución para el SO correspondiente).
 
-3. Si ya se tiene la distribución Anaconda de Python, ejecutarla a través de **Anaconda Navigator** y abrir Jupyter Notebook en **localhost**. El puerto por defecto es el **8888**.
+3. Si ya se tiene la distribución Anaconda de Python, ejecutarla a través de **Anaconda Navigator** y abrir **Jupyter Notebook** en **localhost**. El puerto por defecto es el **8888**.
 - Cargar el archivo *Mandelbrot.ipynb* en el Jupyter Notebook.
 - Recorrer el archivo.
 
-4. Si no se cuenta con Anaconda + Jupyter Notebook, cargar el archivo *Mandelbrot.ipynb* en el siguiente Hub: https://hubbinder.mybinder.ovh/user/jupyterlab-jupyterlab-demo-t9bilmky/lab
+4. Si no se cuenta con lo anterior, cargar el archivo *Mandelbrot.ipynb* en el siguiente Hub: https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/try.jupyter.org?urlpath=lab
 
 
 **EXTRA:** Si se desea ver el código completo, abrir el archivo *mandelbrot.py*. Si se ejecuta lanzará error puesto que está diseñado para utilizarse con Jupyter Notebook.
@@ -34,7 +34,7 @@
 9) z^2+(1/C) interseccción z^2+C (o eso parece).
 10) z^3-z+C
 
-**_Nota:_** Se pueden modificar o agregar nuevas funciones. Para esto, crear una función función mandelbrot, por ejemplo *def mandelbrot 11* y modificar la fórmula *z*. Después, modificar en la variable *resultado* el nombre de *mandelbrot<número>* al número correspondiente y ajustar la gráfica en *fila_index* y *columna_index*. Finalmente, se puede cambiar el nombre de la gráfica en *plt.imshow* en el parámetro *cmap*.
+**Nota:** Se pueden modificar o agregar nuevas funciones. Para esto, crear una función mandelbrot, por ejemplo *_def mandelbrot11_* y modificar la fórmula generadora del fractal. Después, modificar en la variable *resultado* el nombre de *mandelbrot<número>* al número correspondiente y ajustar la gráfica en *fila_index* y *columna_index*. Finalmente, se puede cambiar el color de la gráfica en *plt.imshow* en el parámetro *cmap*.
 
 **REFERENCIAS.**
 
