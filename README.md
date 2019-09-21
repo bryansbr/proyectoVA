@@ -33,3 +33,8 @@
 8) [(z+C^2-1)/C^2]^2 
 9) z^2+(1/C) interseccción z^2+C (o eso parece).
 10) z^3-z+C
+
+**REFERENCIAS.**
+
+- https://www.youtube.com/watch?v=gECmGwD0DaI <- *Conjunto de Mandelbrot en Python.*
+- https://es.wikipedia.org/wiki/Desarrollo_de_fractales_mediante_el_m%C3%A9todo_de_Mandelbrot <- *Desarrollo de fractales mediante el método de Mandelbrot*
