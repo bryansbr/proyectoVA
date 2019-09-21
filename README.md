@@ -1,6 +1,4 @@
-# proyectoVA
-
-PROYECTO FINAL - VIDA ARTIFICIAL
+# PROYECTO FINAL - VIDA ARTIFICIAL
 
 Autores: Bryan Steven Biojó R.     1529879-2711
          Joel Alexander Ramírez N. 1528879-2711
